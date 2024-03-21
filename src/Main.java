@@ -71,6 +71,7 @@ public class Main {
         }
         System.out.println();
         System.out.println("Example#2:");
+
        // Example#2:
         for (int i = 10; i >= 0; i--) {
             for (int j = 10; j > i; j--) {
